@@ -1,0 +1,6 @@
+{
+  "name": "Mystic Oracle Tarot Insights",
+  "description": "An AI-powered Tarot reading application that provides personalized insights and card interpretations using Gemini API. Users can select spreads, ask questions, and receive AI-generated readings and card imagery.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
